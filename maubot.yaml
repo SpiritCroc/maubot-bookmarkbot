@@ -1,9 +1,9 @@
 maubot: 0.1.0
-id: xyz.maubot.reactbot
-version: 2.2.0
+id: de.spiritcroc.bookmarkbot
+version: 1.0.0
 license: AGPL-3.0-or-later
 modules:
-- reactbot
-main_class: ReactBot
+- bookmarkbot
+main_class: BookmarkBot
 extra_files:
 - base-config.yaml
